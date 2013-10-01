@@ -1,6 +1,6 @@
 /* 
  * File:   main.c
- * Author: Connor m
+ * Author: Connor M
  *
  * Created on September 29, 2013, 11:52 AM
  */
