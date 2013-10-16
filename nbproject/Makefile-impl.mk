@@ -27,7 +27,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 PROJECTNAME=TimerTesting.X
 
 # Active Configuration
-DEFAULTCONF=local_sim
+DEFAULTCONF=default
 CONF=${DEFAULTCONF}
 
 # All Configurations
